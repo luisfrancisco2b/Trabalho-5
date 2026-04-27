@@ -1,0 +1,17 @@
+# Python (arquivos automáticos)
+__pycache__/
+*.pyc
+
+# Ambiente virtual (muito importante ignorar)
+venv/
+
+# Configuração do VSCode
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
