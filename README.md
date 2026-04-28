@@ -23,25 +23,25 @@ Este projeto reúne diferentes scripts que resolvem questões práticas envolven
 
 ### Segmentação com Watershed
 
-Imagem com o resultado do processamento:
+Imagem com o resultado do processamento utilizando a técnica de Watershed para segmentação de regiões.
 ![Resultado Watershed](images/imagem8.jpg)
 
 ## 📂 Estrutura do projeto
 
 src/ # Scripts principais
-img/ # Imagens utilizadas
+images/ # Imagens utilizadas
 
 
 ## 🚀 Como executar
 
 1. Clone o repositório:
 
-https://github.com/luisfrancisco2b/Trabalho-5
+git clone https://github.com/luisfrancisco2b/opencv-image-processing.git
 
 
 2. Acesse a pasta do projeto:
 
-cd nome-do-projeto
+cd opencv-image-processing
 
 
 3. Instale as dependências:
@@ -52,3 +52,7 @@ pip install -r requirements.txt
 4. Execute um dos scripts:
 
 python src/questao1e2.py
+
+## 📄 Licença
+
+Projeto desenvolvido para fins acadêmicos.
