@@ -56,3 +56,5 @@ python src/questao1e2.py
 ## 📄 Licença
 
 Projeto desenvolvido para fins acadêmicos.
+
+🔗 GitHub: [luisfrancisco2b](https://github.com/luisfrancisco2b)
