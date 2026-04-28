@@ -57,4 +57,7 @@ python src/questao1e2.py
 
 Projeto desenvolvido para fins acadêmicos.
 
-🔗 GitHub: [luisfrancisco2b](https://github.com/luisfrancisco2b)
+## 👨‍💻 Autor
+
+**Luis Francisco**  
+🔗 GitHub: https://github.com/luisfrancisco2b
